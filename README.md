@@ -2,14 +2,17 @@
 
 This will be my profile in the feature:
 
+Main project:
+
+
 My training projects:
-(not finished but)..
 * [Argument parser kata exersice](https://github.com/msz13/ArgumentParser)
 * [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
-* [Generator JRWA numbers - destop app with file repository](https://github.com/msz13/generator-jrwa)
+* [Generator JRWA numbers - desktop app with file repository](https://github.com/msz13/generator-jrwa)
 * [Olist project - sql and python data analisys](https://github.com/msz13/olist_project)
 
-
+Collected materials about Behaviour Driven Development:
+- [Awesome-BDD] (https://github.com/msz13/Awesome-BDD)
 
 <!--
 **msz13/msz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
