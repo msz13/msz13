@@ -2,11 +2,11 @@
 
 This will be my profile in the feature:
 
-Main hobby project:
+Main hobby project (in progress):
 * [Zapisywarka](https://github.com/msz13/zapisywarka)
 
 
-My training projects:
+Little training projects:
 * [Argument parser kata exersice](https://github.com/msz13/ArgumentParser)
 * [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
 * [Generator JRWA numbers - desktop app with file repository](https://github.com/msz13/generator-jrwa)
