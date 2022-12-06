@@ -12,7 +12,7 @@ My training projects:
 * [Olist project - sql and python data analisys](https://github.com/msz13/olist_project)
 
 Collected materials about Behaviour Driven Development:
-- [Awesome-BDD] (https://github.com/msz13/Awesome-BDD)
+- [Awesome-BDD](https://github.com/msz13/Awesome-BDD)
 
 <!--
 **msz13/msz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
