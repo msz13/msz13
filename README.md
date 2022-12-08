@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This will be my profile in the feature:
+### Portfolio 👋
 
 Main hobby project (in progress):
 * [Zapisywarka](https://github.com/msz13/zapisywarka)
