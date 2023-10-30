@@ -5,7 +5,7 @@ Main hobby project (in progress):
 
 
 Little training projects:
-* [Argument parser kata exersice](https://github.com/msz13/ArgumentParser)
+* [Argument parser kata exercise](https://github.com/msz13/ArgumentParser)
 * [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
 * [Generator JRWA numbers - desktop app with file repository](https://github.com/msz13/generator-jrwa)
 * [Olist project - sql and python data analisys](https://github.com/msz13/olist_project)
