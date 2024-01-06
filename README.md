@@ -8,6 +8,7 @@ Main hobby projects (in progress):
 Training projects:
 * [Generator JRWA numbers - desktop app with file repository](https://github.com/msz13/generator-jrwa)
 * [Olist project - sql and python data analisys](https://github.com/msz13/olist_project)
+* [GU-Dash-Grow-up dasport app](https://github.com/msz13/gu-dash) (one of my first projects, playing with DDD/Event Soursing/Microservises patterns)
 * [Argument parser kata exercise](https://github.com/msz13/ArgumentParser)
 * [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
 
