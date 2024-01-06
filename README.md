@@ -9,6 +9,7 @@ Training projects:
 * [Generator JRWA numbers - desktop app with file repository](https://github.com/msz13/generator-jrwa)
 * [Olist project - sql and python data analisys](https://github.com/msz13/olist_project)
 * [GU-Dash-Grow-up dasport app](https://github.com/msz13/gu-dash) (one of my first projects, playing with DDD/Event Soursing/Microservises patterns)
+* [Soltaire game in angular](https://github.com/msz13/msz13-pasjans-ng)
 * [Argument parser kata exercise](https://github.com/msz13/ArgumentParser)
 * [Advent of Code 2022 first day](https://github.com/msz13/AdventOfCode)
 * [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
