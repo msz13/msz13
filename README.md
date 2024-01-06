@@ -1,7 +1,8 @@
 ### Portfolio 👋
 
-Main hobby project (in progress):
+Main hobby projects (in progress):
 * [Zapisywarka](https://github.com/msz13/zapisywarka)
+* [Optymalizacja porfela/Goal Based Inwesting](https://github.com/msz13/Optymalizacja-portfela/)
 
 
 Little training projects:
