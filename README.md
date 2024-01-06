@@ -2,14 +2,14 @@
 
 Main hobby projects (in progress):
 * [Zapisywarka](https://github.com/msz13/zapisywarka)
-* [Optymalizacja porfela/Goal Based Inwesting](https://github.com/msz13/Optymalizacja-portfela/)
+* ["Optymalizacja portfela"/Goal Based Investing scripts](https://github.com/msz13/Optymalizacja-portfela/)
 
 
-Little training projects:
-* [Argument parser kata exercise](https://github.com/msz13/ArgumentParser)
-* [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
+Training projects:
 * [Generator JRWA numbers - desktop app with file repository](https://github.com/msz13/generator-jrwa)
 * [Olist project - sql and python data analisys](https://github.com/msz13/olist_project)
+* [Argument parser kata exercise](https://github.com/msz13/ArgumentParser)
+* [Roman numeral kata](https://github.com/msz13/roman-numerals-kata)
 
 Collected materials about Behaviour Driven Development:
 - [Awesome-BDD](https://github.com/msz13/Awesome-BDD)
